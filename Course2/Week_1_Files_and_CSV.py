@@ -1,5 +1,9 @@
 #All txt files will be pre-defined in the Runestone Environment, so the errors regarding that can be ignored.
 
+
+
+
+
 #The textfile, travel_plans.txt, contains the summer travel plans for someone with some commentary.
 # Find the total number of characters in the file and save to the variable num.
 
